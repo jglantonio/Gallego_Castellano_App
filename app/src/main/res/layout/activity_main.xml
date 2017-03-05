@@ -16,30 +16,33 @@
         android:onClick="openNumber"/>
 
     <TextView
-        android:id="@+id/Colors"
+        android:id="@+id/colors"
         style="@style/categorias"
         android:text="Colores"
         android:background="@color/blue2"
         android:layout_below="@+id/numbers"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:onClick="openColors"/>
 
     <TextView
         android:id="@+id/family"
         style="@style/categorias"
         android:text="Familia"
-        android:layout_below="@+id/Colors"
+        android:layout_below="@+id/colors"
         android:background="@color/blue3"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:onClick="openFamily"/>
 
     <TextView
-        android:id="@+id/Parents"
+        android:id="@+id/phrasals"
         style="@style/categorias"
         android:text="Frasales"
         android:background="@color/blue4"
         android:layout_below="@+id/family"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:onClick="openPhrasals"/>
 
 </RelativeLayout>

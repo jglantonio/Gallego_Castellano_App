@@ -3,7 +3,7 @@ package com.learning.multiple_screen_app;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class family extends AppCompatActivity {
+public class familyActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -4,6 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.learning.multiple_screen_app.color">
+    tools:context="com.learning.multiple_screen_app.colorActivity">
 
 </android.support.constraint.ConstraintLayout>
