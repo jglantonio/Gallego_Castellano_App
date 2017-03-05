@@ -5,7 +5,7 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="Japaneses Languaje"
+        android:label="Galician languaje"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
@@ -15,6 +15,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".numbersActivity"
+            android:label="@string/number_activity"
+            />
+        <activity android:name=".color" />
+        <activity android:name=".family" />
+        <activity android:name=".phrasals"></activity>
     </application>
 
 </manifest>

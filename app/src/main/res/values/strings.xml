@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">multiple_screen_app</string>
+    <string name="number_activity">Numeros</string>
+
 </resources>
