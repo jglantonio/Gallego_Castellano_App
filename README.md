@@ -23,7 +23,7 @@ sepa un poco más y estar orgullosos de lo que es nuestro.
 Si quieres saber como voy , no dudes en hacer un :
 
 ```
-Git clone https://github.com/jglantonio/multiscreen_app.git multiscreen_app
+git clone https://github.com/jglantonio/multiscreen_app.git multiscreen_app
 ```
 
 Y cargarla con tu Android Studio :
