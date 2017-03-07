@@ -9,6 +9,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 import static com.learning.multiple_screen_app.R.id.numbers;
+import static com.learning.multiple_screen_app.R.id.rootView;
 
 public class numbersActivity extends AppCompatActivity {
 
@@ -30,9 +31,11 @@ public class numbersActivity extends AppCompatActivity {
         numbers.add("Diez");
 
         LinearLayout rootView = (LinearLayout)findViewById(R.id.rootView);
-        TextView tV = new TextView(this);
-        tV.setText(numbers.get(0));
-        rootView.addView(tV);
+        for(int x=0 ; x < numbers.size();x++) {
+            TextView tV = new TextView(this);
+            tV.setText(numbers.get(x));
+            rootView.addView(tV);
+        }
 
     }
 
