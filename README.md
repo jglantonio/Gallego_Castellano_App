@@ -1,9 +1,9 @@
-# Multiples pantallas
+# Gallego_Castellano_App
 
 ## Descripcion
 
-App realizada para aprender el trabajo en uno de mis campos favoritos las aplicaciones móviles en Android y la programación de Java.
-Esta es una aplicación que desarrollo del aprendizaje en un curso , pero personalizado.
+App realizada para aprender el trabajo en uno de mis campos favoritos las aplicaciones móviles en **Android** y la **programación** de Java.
+Esta es una aplicación que desarrollo del aprendizaje en el curso de [udacity](https://www.udacity.com/) , pero personalizado.
 
 ### Personalización
 
