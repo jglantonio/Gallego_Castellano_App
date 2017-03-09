@@ -2,8 +2,9 @@
 
 ## Descripcion
 
-App realizada para aprender el trabajo en uno de mis campos favoritos las aplicaciones móviles en **Android** y la **programación** de Java.
-Esta es una aplicación que desarrollo del aprendizaje en el curso de [udacity](https://www.udacity.com/) , pero personalizado.
+App realizada para aprender el trabajo en uno de mis campos favoritos las aplicaciones móviles en **Android** y la **programación de Java**.
+Esta es una aplicación que desarrollo del aprendizaje en el curso de [udacity](https://www.udacity.com/) , pero personalizado a mi lenguaje.
+¿Se podrá hacer de otro idioma , como el mío el Gallego? ¿No?
 
 ### Personalización
 
@@ -12,11 +13,8 @@ sepa un poco más y estar orgullosos de lo que es nuestro.
 
 ## Pantallas 
 
-
-
 ![Main_activity ](./capturas/main_activity.png)
 ![numeros_activity](./capturas/numeros_activity.png)
-
 
 ## Notas
 
