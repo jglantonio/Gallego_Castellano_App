@@ -14,8 +14,8 @@ sepa un poco más y estar orgullosos de lo que es nuestro.
 
 
 
-![GitHub Logo](./capturas/capturamain.png)
-
+![Main_activity ](./capturas/main_activity.png)
+![numeros_activity](./capturas/numeros_activity.png)
 
 
 ## Notas
